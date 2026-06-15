@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "maritime-co2: OPS-avoidable at-berth CO2 for liquid bulk (tanker) vessels"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Cunha"
+    given-names: "Darliane Ribeiro"
+    orcid: "https://orcid.org/0000-0003-2548-1237"
+version: 0.1.0
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/darlianecunha/maritime-co2"
+keywords:
+  - maritime
+  - co2-emissions
+  - ports
+  - decarbonisation
+  - imo

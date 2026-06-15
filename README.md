@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org)
 [![Live tool](https://img.shields.io/badge/Live-co2--liquid--bulk--calculator-2ea44f)](https://co2-liquid-bulk-calculator.vercel.app)
-<!-- After your first GitHub Release, connect the repo to Zenodo and paste the DOI badge here. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20708090.svg)](https://doi.org/10.5281/zenodo.20708090)
 
 ## What this is
 
@@ -36,8 +36,8 @@ Carbon conversion factors (Cf) follow the IMO Fourth GHG Study 2020 (MDO/MGO 3.2
 ## Installation
 
 ```bash
-git clone https://github.com/darlianecunha/maritime-co2
-cd maritime-co2
+git clone https://github.com/darlianecunha/maritimeco2
+cd maritimeco2
 pip install -e .
 ```
 

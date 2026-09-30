@@ -9,7 +9,9 @@ authors:
 version: 0.1.0
 date-released: 2026-01-01
 license: MIT
-repository-code: "https://github.com/darlianecunha/maritime-co2"
+repository-code: "https://github.com/darlianecunha/maritimeco2"
+doi: "10.5281/zenodo.20708090"
+url: "https://www.decarbport.com"
 keywords:
   - maritime
   - co2-emissions

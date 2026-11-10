@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "maritime-co2"
-version = "0.1.0"
+version = "0.2.0"
 description = "Estimate OPS-avoidable at-berth CO2 for liquid bulk (tanker) vessels, IMO Fourth GHG Study 2020 method (auxiliary engine only)."
 readme = "README.md"
 requires-python = ">=3.9"
